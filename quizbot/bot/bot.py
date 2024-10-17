@@ -104,8 +104,8 @@ def setup_bot(updater):
 if __name__ == '__main__':
     # TODO Start message
 
-    TELEGRAM_TOKEN = os.environ['TELEGRAM_TOKEN']
-    WEBHOOK = os.environ['WEBHOOK']
+    TELEGRAM_TOKEN = os.environ['7521730183:AAEcsGTDQa5aW3FkHpTZOEn7FM9MV-TDN-c']
+    WEBHOOK = os.environ['Koyeb']
 
     updater = Updater(TELEGRAM_TOKEN, use_context=True)
 
